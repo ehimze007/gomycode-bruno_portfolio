@@ -2,6 +2,7 @@
 
 :root {
   /* TODO: root styles */
+  box-sizing: border-box;
 }
 
 * {
@@ -9,3 +10,9 @@
 }
 
 /* TODO: your styles */
+
+footer {
+  height: 100px;
+  /* width: 120%; */
+  background-color: red;
+}
